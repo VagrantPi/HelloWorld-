@@ -199,3 +199,8 @@ init python:
 ## by a slash.
 
 # define build.itch_project = "renpytom/test-project"
+
+# 
+    #style.default.font = "font/DroidSansFallback.ttf" 
+    style.default.font = "font/wt011.ttf" 
+    style.default.language = "eastasian"
